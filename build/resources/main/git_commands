@@ -1,0 +1,4 @@
+git init lab3_ex3
+git add index.html
+git commit ¨Cam "Change1"
+git remote add [index.html] [www.]

@@ -1,0 +1,8 @@
+git init
+git add *
+git commit -am "The first commit"
+git add src/main/resources/git_commands
+git commit -am "git_commands modified"
+git commit -am "git_commands modified again"
+git remote origin https://github.com/XiangZhuang/comp3111_lab3
+git push origin master
